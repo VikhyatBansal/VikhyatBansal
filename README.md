@@ -1,6 +1,6 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikhyat-bansal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bit.ly/vikhyatbansal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vikhyatbansal.github.io/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2300ff00?style=for-the-badge&logo=python&logoColor=black) 
