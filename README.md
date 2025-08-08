@@ -64,7 +64,7 @@
 ## 🚀 Let's Build Something Amazing
 
 ✨ *I'm always open to collaboration, project ideas, and tech discussions!*  
-📬 Drop a message via [LinkedIn](https://www.linkedin.com/in/vikhyat-bansal/) or [Email](mailto:vikhyatbansal07@gmail.com)
+📬 Drop a message via [LinkedIn](https://www.linkedin.com/in/vikhyat-bansal/) or [Email](mailto:vikhyatbansal235@gmail.com)
 
 ---
 
