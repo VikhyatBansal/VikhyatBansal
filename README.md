@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/VikhyatBansal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+the+Future+with+AI+%26+Data;Generative+AI+%7C+Computer+Vision+%7C+Smart+Products;Always+Learning.+Always+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+the+Future+with+AI+%26+Data;Always+Learning.+Always+Shipping." alt="Typing SVG" />
 </a>
 
 <br/>
